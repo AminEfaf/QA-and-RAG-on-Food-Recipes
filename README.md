@@ -217,9 +217,8 @@ The project is organized into modular components for easy navigation and mainten
 
 ---
 
-## Authors
+## Team Members
 
-**Team Members**:
 - Sobhan Heydarinezhad
 - Mohammad Amin Efaf
 - Arman Ghorbanpour 
