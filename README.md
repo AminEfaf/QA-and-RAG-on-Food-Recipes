@@ -1,5 +1,5 @@
 # Persian Question Answering System
-A comprehensive Persian Natural Language Processing project implementing Question Answering systems through fine-tuning Large Language Models and Retrieval-Augmented Generation (RAG) approaches.
+A Persian Natural Language Processing project implementing Question Answering systems through fine-tuning Large Language Models and Retrieval-Augmented Generation (RAG) approaches.
 
 ---
 
